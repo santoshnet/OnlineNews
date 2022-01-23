@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "574328365049",
+    "project_id": "onlinenews-bbd0a",
+    "storage_bucket": "onlinenews-bbd0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574328365049:android:ee4f090556f1241a75e728",
+        "android_client_info": {
+          "package_name": "com.quintus.onlinenews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574328365049-8r0js3hk3vvo2cg1o1oll45essv1j3ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quintus.onlinenews",
+            "certificate_hash": "f03b124cac2f68003a6a1412af29fe207bc54be0"
+          }
+        },
+        {
+          "client_id": "574328365049-fv0pc19q3sbt5t58ah34ll6ea06umiko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Iumv15ae8HC4LcqeIHYIaalbXijKdK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574328365049-fv0pc19q3sbt5t58ah34ll6ea06umiko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
